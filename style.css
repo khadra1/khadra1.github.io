@@ -31,7 +31,7 @@ h2 {
 }
 
 a {
-  color: #d21034;
+  color: rgb(0, 68, 255);
 }
 
 /* Selecting elements by class */
@@ -67,12 +67,12 @@ a {
 }
 
 #group-projects {
-  width: 70%;
+  width: 100%;
   line-height: 1.5;
 }
 
 #contact-info {
-  width: 70%;
+  width: 100%;
   line-height: 1.5;
 }
 
